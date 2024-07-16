@@ -1,0 +1,18 @@
+﻿  PP.c
+C:\Users\yashs\Desktop\stb_image_write.h(776,31): warning C4047: 'function': 'const size_t' differs in levels of indirection from 'char [49]'
+  (compiling source file 'PP.c')
+  
+C:\Users\yashs\Desktop\stb_image_write.h(776,31): warning C4024: 'sprintf_s': different types for formal and actual parameter 2
+  (compiling source file 'PP.c')
+  
+C:\Users\yashs\Desktop\stb_image_write.h(776,86): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'int'
+  (compiling source file 'PP.c')
+  
+C:\Users\yashs\Desktop\stb_image_write.h(776,86): warning C4024: 'sprintf_s': different types for formal and actual parameter 3
+  (compiling source file 'PP.c')
+  
+C:\Users\yashs\Desktop\pp\Project1\Project1\PP.c(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\yashs\Desktop\pp\Project1\Project1\PP.c(156,39): warning C4047: 'function': 'const int *' differs in levels of indirection from 'unsigned char **'
+C:\Users\yashs\Desktop\pp\Project1\Project1\PP.c(156,39): warning C4024: 'blurImageAndWrite': different types for formal and actual parameter 1
+C:\Users\yashs\Desktop\pp\Project1\Project1\PP.c(131,24): warning C4101: 'channels': unreferenced local variable
+  Project1.vcxproj -> C:\Users\yashs\Desktop\pp\Project1\x64\Debug\Project1.exe
